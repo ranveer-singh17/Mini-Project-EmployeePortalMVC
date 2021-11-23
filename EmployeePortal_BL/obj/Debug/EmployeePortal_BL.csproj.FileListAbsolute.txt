@@ -1,0 +1,42 @@
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_BL\obj\Debug\EmployeePortal_BL.csproj.CoreCompileInputs.cache
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_BL\bin\Debug\EmployeePortal_BL.exe.config
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_BL\bin\Debug\EmployeePortal_BL.exe
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_BL\bin\Debug\EmployeePortal_BL.pdb
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_BL\bin\Debug\EmployeePortal_DAL.exe
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_BL\bin\Debug\EmployeePortal_DTO.exe
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_BL\bin\Debug\EmployeePortal_DAL.pdb
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_BL\bin\Debug\EmployeePortal_DAL.exe.config
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_BL\bin\Debug\EmployeePortal_DTO.pdb
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_BL\bin\Debug\EmployeePortal_DTO.exe.config
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_BL\obj\Debug\EmployeePortal_BL.csproj.AssemblyReference.cache
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_BL\obj\Debug\EmployeePortal_BL.csproj.CopyComplete
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_BL\obj\Debug\EmployeePortal_BL.exe
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_BL\obj\Debug\EmployeePortal_BL.pdb
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_BL\bin\Debug\EmployeePortal_BL.exe.config
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_BL\bin\Debug\EmployeePortal_BL.exe
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_BL\bin\Debug\EmployeePortal_BL.pdb
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_BL\bin\Debug\EmployeePortal_DAL.exe
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_BL\bin\Debug\EmployeePortal_DTO.exe
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_BL\bin\Debug\EmployeePortal_DAL.pdb
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_BL\bin\Debug\EmployeePortal_DAL.exe.config
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_BL\bin\Debug\EmployeePortal_DTO.pdb
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_BL\bin\Debug\EmployeePortal_DTO.exe.config
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_BL\obj\Debug\EmployeePortal_BL.csproj.AssemblyReference.cache
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_BL\obj\Debug\EmployeePortal_BL.csproj.CoreCompileInputs.cache
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_BL\obj\Debug\EmployeePortal_BL.exe
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_BL\obj\Debug\EmployeePortal_BL.pdb
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_BL\bin\Debug\EmployeePortal_BL.exe.config
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_BL\bin\Debug\EmployeePortal_BL.exe
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_BL\bin\Debug\EmployeePortal_BL.pdb
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_BL\bin\Debug\EmployeePortal_DAL.exe
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_BL\bin\Debug\EmployeePortal_DTO.exe
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_BL\bin\Debug\EmployeePortal_DAL.pdb
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_BL\bin\Debug\EmployeePortal_DAL.exe.config
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_BL\bin\Debug\EmployeePortal_DTO.pdb
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_BL\bin\Debug\EmployeePortal_DTO.exe.config
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_BL\obj\Debug\EmployeePortal_BL.csproj.AssemblyReference.cache
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_BL\obj\Debug\EmployeePortal_BL.csproj.SuggestedBindingRedirects.cache
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_BL\obj\Debug\EmployeePortal_BL.csproj.CoreCompileInputs.cache
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_BL\obj\Debug\EmployeePortal_BL.csproj.CopyComplete
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_BL\obj\Debug\EmployeePortal_BL.exe
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_BL\obj\Debug\EmployeePortal_BL.pdb

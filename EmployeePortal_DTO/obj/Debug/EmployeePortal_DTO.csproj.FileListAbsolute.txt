@@ -1,0 +1,22 @@
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_DTO\bin\Debug\EmployeePortal_DTO.exe.config
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_DTO\bin\Debug\EmployeePortal_DTO.exe
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_DTO\bin\Debug\EmployeePortal_DTO.pdb
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.csproj.AssemblyReference.cache
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.csproj.CoreCompileInputs.cache
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.exe
+C:\Users\Ranveer Singh\source\repos\EmployeePortal\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.pdb
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_DTO\bin\Debug\EmployeePortal_DTO.exe.config
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_DTO\bin\Debug\EmployeePortal_DTO.exe
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_DTO\bin\Debug\EmployeePortal_DTO.pdb
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.csproj.AssemblyReference.cache
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.csproj.CoreCompileInputs.cache
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.exe
+F:\LTTS\MiniProject_ADONET_Team-7\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.pdb
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_DTO\bin\Debug\EmployeePortal_DTO.exe.config
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_DTO\bin\Debug\EmployeePortal_DTO.exe
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_DTO\bin\Debug\EmployeePortal_DTO.pdb
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.csproj.AssemblyReference.cache
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.csproj.SuggestedBindingRedirects.cache
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.csproj.CoreCompileInputs.cache
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.exe
+F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.pdb
