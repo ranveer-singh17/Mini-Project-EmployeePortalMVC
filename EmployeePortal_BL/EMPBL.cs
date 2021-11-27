@@ -12,11 +12,17 @@ namespace Employee_Portal_BL
 {
     public class EMPBL 
     {
+        EMPDAL objdal;
+
+        public EMPBL()
+        {
+             objdal = new EMPDAL();
+        }
         public int AddEmployee(Insert_DTO newObj)
         {
             try
             {
-                EMPDAL objdal = new EMPDAL();
+                
                 int result = objdal.InsertNewDataIntoEmployee(newObj);
                 return result;
             }
@@ -31,7 +37,7 @@ namespace Employee_Portal_BL
         {
             try
             {
-                EMPDAL objdal = new EMPDAL();
+                
                 int result = objdal.DeletingFromTableEmployee(newObj2);
                 return result;
             }
@@ -46,7 +52,7 @@ namespace Employee_Portal_BL
         {
             try
             {
-                EMPDAL objdal = new EMPDAL();
+                
                 int result = objdal.UpdatingTableEmployee(newObj1);
                 return result;
             }
@@ -58,12 +64,13 @@ namespace Employee_Portal_BL
 
         }
 
-        public int SearchEmployee(Search_DTO newObj3)
+
+        public List<Search_DTO> SearchEmployee()
         {
             try
             {
-                EMPDAL objdal = new EMPDAL();
-                result = objdal.SearchingFromTableEmployee(newObj3);
+
+               List<Search_DTO> result = objdal.SearchingFromTableEmployee();
                 return result;
             }
             catch (Exception ex)
@@ -73,5 +80,26 @@ namespace Employee_Portal_BL
             }
 
         }
+
+        
+
+
+        public int Login(Login_DTO newObj4)
+        {
+            try
+            {
+
+                int result = objdal.Login(newObj4);
+                return result;
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+
+        }
+
+
     }
 }

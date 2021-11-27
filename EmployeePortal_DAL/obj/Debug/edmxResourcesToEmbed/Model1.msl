@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Emp_Portal">
+    <EntitySetMapping Name="employees">
+      <EntityTypeMapping TypeName="Model.employee">
+        <MappingFragment StoreEntitySet="employee">
+          <ScalarProperty Name="EmployeeId" ColumnName="EmployeeId" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="salary" ColumnName="salary" />
+          <ScalarProperty Name="DepartmentID" ColumnName="DepartmentID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="usp_DeleteEmployee" FunctionName="Model.Store.usp_DeleteEmployee" />
+    <FunctionImportMapping FunctionImportName="usp_insertdetail" FunctionName="Model.Store.usp_insertdetail" />
+    <FunctionImportMapping FunctionImportName="USP_SEARCHDEPARTMENT" FunctionName="Model.Store.USP_SEARCHDEPARTMENT">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Model.USP_SEARCHDEPARTMENT_Result">
+          <ScalarProperty Name="EmployeeId" ColumnName="EmployeeId" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="salary" ColumnName="salary" />
+          <ScalarProperty Name="DepartmentID" ColumnName="DepartmentID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_UpdateEmployeeDetails" FunctionName="Model.Store.usp_UpdateEmployeeDetails" />
+  </EntityContainerMapping>
+</Mapping>

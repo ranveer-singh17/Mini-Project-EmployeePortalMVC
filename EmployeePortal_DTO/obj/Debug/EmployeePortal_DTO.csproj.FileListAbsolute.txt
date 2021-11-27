@@ -20,3 +20,11 @@ F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_DTO\obj\Debug\E
 F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.csproj.CoreCompileInputs.cache
 F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.exe
 F:\LTTS\mvc mini project\MiniProject-WebAPI_Team7\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.pdb
+F:\LTTS\mvc mini project\Mini-Project-EmployeePortalMVC\EmployeePortal_DTO\bin\Debug\EmployeePortal_DTO.exe.config
+F:\LTTS\mvc mini project\Mini-Project-EmployeePortalMVC\EmployeePortal_DTO\bin\Debug\EmployeePortal_DTO.exe
+F:\LTTS\mvc mini project\Mini-Project-EmployeePortalMVC\EmployeePortal_DTO\bin\Debug\EmployeePortal_DTO.pdb
+F:\LTTS\mvc mini project\Mini-Project-EmployeePortalMVC\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.csproj.AssemblyReference.cache
+F:\LTTS\mvc mini project\Mini-Project-EmployeePortalMVC\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.csproj.SuggestedBindingRedirects.cache
+F:\LTTS\mvc mini project\Mini-Project-EmployeePortalMVC\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.csproj.CoreCompileInputs.cache
+F:\LTTS\mvc mini project\Mini-Project-EmployeePortalMVC\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.exe
+F:\LTTS\mvc mini project\Mini-Project-EmployeePortalMVC\EmployeePortal_DTO\obj\Debug\EmployeePortal_DTO.pdb

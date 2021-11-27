@@ -9,5 +9,12 @@ namespace EmployeePortal_DTO
     public class Search_DTO
     {
         public int EmployeeId { get; set; }
+
+        public string FirstName { get; set; }
+
+        public string LastName { get; set; }
+
+        public int salary { get; set; }
+        public int DepartmentID { get; set; }
     }
 }

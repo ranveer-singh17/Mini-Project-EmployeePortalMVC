@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="employee">
+    <Key>
+      <PropertyRef Name="EmployeeId" />
+    </Key>
+    <Property Name="EmployeeId" Type="int" Nullable="false" />
+    <Property Name="FirstName" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="LastName" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="salary" Type="int" />
+    <Property Name="DepartmentID" Type="int" />
+  </EntityType>
+  <Function Name="usp_DeleteEmployee" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IP1" Type="int" Mode="In" />
+  </Function>
+  <Function Name="usp_insertdetail" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IP1" Type="int" Mode="In" />
+    <Parameter Name="IP2" Type="varchar" Mode="In" />
+    <Parameter Name="IP3" Type="varchar" Mode="In" />
+    <Parameter Name="IP4" Type="int" Mode="In" />
+    <Parameter Name="IP5" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="USP_SEARCHDEPARTMENT" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IP1" Type="int" Mode="In" />
+  </Function>
+  <Function Name="usp_UpdateEmployeeDetails" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IP1" Type="int" Mode="In" />
+    <Parameter Name="IP2" Type="varchar" Mode="In" />
+    <Parameter Name="IP3" Type="varchar" Mode="In" />
+    <Parameter Name="IP4" Type="int" Mode="In" />
+    <Parameter Name="IP5" Type="varchar" Mode="In" />
+  </Function>
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="employee" EntityType="Self.employee" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="employee">
+    <Key>
+      <PropertyRef Name="EmployeeId" />
+    </Key>
+    <Property Name="EmployeeId" Type="Int32" Nullable="false" />
+    <Property Name="FirstName" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="salary" Type="Int32" />
+    <Property Name="DepartmentID" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="Emp_Portal" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="employees" EntityType="Self.employee" />
+    <FunctionImport Name="usp_DeleteEmployee">
+      <Parameter Name="IP1" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_insertdetail">
+      <Parameter Name="IP1" Mode="In" Type="Int32" />
+      <Parameter Name="IP2" Mode="In" Type="String" />
+      <Parameter Name="IP3" Mode="In" Type="String" />
+      <Parameter Name="IP4" Mode="In" Type="Int32" />
+      <Parameter Name="IP5" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_SEARCHDEPARTMENT" ReturnType="Collection(Model.USP_SEARCHDEPARTMENT_Result)">
+      <Parameter Name="IP1" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="usp_UpdateEmployeeDetails">
+      <Parameter Name="IP1" Mode="In" Type="Int32" />
+      <Parameter Name="IP2" Mode="In" Type="String" />
+      <Parameter Name="IP3" Mode="In" Type="String" />
+      <Parameter Name="IP4" Mode="In" Type="Int32" />
+      <Parameter Name="IP5" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="USP_SEARCHDEPARTMENT_Result">
+    <Property Type="Int32" Name="EmployeeId" Nullable="false" />
+    <Property Type="String" Name="FirstName" Nullable="false" MaxLength="25" />
+    <Property Type="String" Name="LastName" Nullable="false" MaxLength="25" />
+    <Property Type="Int32" Name="salary" Nullable="true" />
+    <Property Type="Int32" Name="DepartmentID" Nullable="true" />
+  </ComplexType>
+</Schema>

@@ -1,0 +1,294 @@
+﻿++Solution 'EmployeePortal' ‎(4 of 6 projects)
+i:{00000000-0000-0000-0000-000000000000}:EmployeePortal.sln
+++EmployeePortal_App (unloaded)
+i:{00000000-0000-0000-0000-000000000000}:EmployeePortal_App
+++EmpPortalAPI (unloaded)
+i:{00000000-0000-0000-0000-000000000000}:EmpPortalAPI
+++EmployeePortal_BL
+i:{00000000-0000-0000-0000-000000000000}:EmployeePortal_BL
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++Properties
+i:{7952d6f2-f270-4632-9184-dfc913e291c5}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\employeeportal_bl\properties\
+i:{0b7cfa29-5702-43a9-90fa-ed5beb95f5e9}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\employeeportal_dal\properties\
+i:{efa25dff-3cd2-404c-8ee0-9d9327fb903a}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\employeeportal_dto\properties\
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\properties\
+++References
+i:{7952d6f2-f270-4632-9184-dfc913e291c5}:
+i:{0b7cfa29-5702-43a9-90fa-ed5beb95f5e9}:
+i:{efa25dff-3cd2-404c-8ee0-9d9327fb903a}:
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++App.config
+i:{7952d6f2-f270-4632-9184-dfc913e291c5}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\employeeportal_bl\app.config
+i:{0b7cfa29-5702-43a9-90fa-ed5beb95f5e9}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\employeeportal_dal\app.config
+i:{efa25dff-3cd2-404c-8ee0-9d9327fb903a}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\employeeportal_dto\app.config
+++EMPBL.cs
+i:{7952d6f2-f270-4632-9184-dfc913e291c5}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\employeeportal_bl\empbl.cs
+++Program.cs
+i:{7952d6f2-f270-4632-9184-dfc913e291c5}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\employeeportal_bl\program.cs
+i:{0b7cfa29-5702-43a9-90fa-ed5beb95f5e9}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\employeeportal_dal\program.cs
+i:{efa25dff-3cd2-404c-8ee0-9d9327fb903a}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\employeeportal_dto\program.cs
+++AssemblyInfo.cs
+i:{7952d6f2-f270-4632-9184-dfc913e291c5}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\employeeportal_bl\properties\assemblyinfo.cs
+i:{0b7cfa29-5702-43a9-90fa-ed5beb95f5e9}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\employeeportal_dal\properties\assemblyinfo.cs
+i:{efa25dff-3cd2-404c-8ee0-9d9327fb903a}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\employeeportal_dto\properties\assemblyinfo.cs
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\properties\assemblyinfo.cs
+++EmployeePortal_DAL
+i:{7952d6f2-f270-4632-9184-dfc913e291c5}:
+i:{00000000-0000-0000-0000-000000000000}:EmployeePortal_DAL
+++EmployeePortal_DTO
+i:{7952d6f2-f270-4632-9184-dfc913e291c5}:
+i:{0b7cfa29-5702-43a9-90fa-ed5beb95f5e9}:
+i:{00000000-0000-0000-0000-000000000000}:EmployeePortal_DTO
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++Microsoft.CSharp
+i:{7952d6f2-f270-4632-9184-dfc913e291c5}:
+i:{0b7cfa29-5702-43a9-90fa-ed5beb95f5e9}:
+i:{efa25dff-3cd2-404c-8ee0-9d9327fb903a}:
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System
+i:{7952d6f2-f270-4632-9184-dfc913e291c5}:
+i:{0b7cfa29-5702-43a9-90fa-ed5beb95f5e9}:
+i:{efa25dff-3cd2-404c-8ee0-9d9327fb903a}:
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Core
+i:{7952d6f2-f270-4632-9184-dfc913e291c5}:
+i:{0b7cfa29-5702-43a9-90fa-ed5beb95f5e9}:
+i:{efa25dff-3cd2-404c-8ee0-9d9327fb903a}:
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Data
+i:{7952d6f2-f270-4632-9184-dfc913e291c5}:
+i:{0b7cfa29-5702-43a9-90fa-ed5beb95f5e9}:
+i:{efa25dff-3cd2-404c-8ee0-9d9327fb903a}:
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Data.DataSetExtensions
+i:{7952d6f2-f270-4632-9184-dfc913e291c5}:
+i:{0b7cfa29-5702-43a9-90fa-ed5beb95f5e9}:
+i:{efa25dff-3cd2-404c-8ee0-9d9327fb903a}:
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Net.Http
+i:{7952d6f2-f270-4632-9184-dfc913e291c5}:
+i:{0b7cfa29-5702-43a9-90fa-ed5beb95f5e9}:
+i:{efa25dff-3cd2-404c-8ee0-9d9327fb903a}:
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Xml
+i:{7952d6f2-f270-4632-9184-dfc913e291c5}:
+i:{0b7cfa29-5702-43a9-90fa-ed5beb95f5e9}:
+i:{efa25dff-3cd2-404c-8ee0-9d9327fb903a}:
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Xml.Linq
+i:{7952d6f2-f270-4632-9184-dfc913e291c5}:
+i:{0b7cfa29-5702-43a9-90fa-ed5beb95f5e9}:
+i:{efa25dff-3cd2-404c-8ee0-9d9327fb903a}:
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++EMPDAL.cs
+i:{0b7cfa29-5702-43a9-90fa-ed5beb95f5e9}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\employeeportal_dal\empdal.cs
+++System.Configuration
+i:{0b7cfa29-5702-43a9-90fa-ed5beb95f5e9}:
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++Delete_DTO.cs
+i:{efa25dff-3cd2-404c-8ee0-9d9327fb903a}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\employeeportal_dto\delete_dto.cs
+++Employee_DTO.cs
+i:{efa25dff-3cd2-404c-8ee0-9d9327fb903a}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\employeeportal_dto\employee_dto.cs
+++Update_DTO.cs
+i:{efa25dff-3cd2-404c-8ee0-9d9327fb903a}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\employeeportal_dto\update_dto.cs
+++MiniProjMVC
+i:{00000000-0000-0000-0000-000000000000}:MiniProjMVC
+++App_Data
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\app_data\
+++App_Start
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\app_start\
+++Content
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\content\
+++Controllers
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\controllers\
+++fonts
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\fonts\
+++Models
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\models\
+++DeleteModel.cs
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\models\deletemodel.cs
+++InsertModel.cs
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\models\insertmodel.cs
+++UpdateModel.cs
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\models\updatemodel.cs
+++Scripts
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\scripts\
+++Views
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\
+++Delete
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\delete\
+++DeleteDept.cshtml
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\delete\deletedept.cshtml
+++Home
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\home\
+++About.cshtml
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\home\about.cshtml
+++Contact.cshtml
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\home\contact.cshtml
+++Index.cshtml
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\home\index.cshtml
+++Insert
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\insert\
+++Insertdept.cshtml
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\insert\insertdept.cshtml
+++Shared
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\shared\
+++_Layout.cshtml
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\shared\_layout.cshtml
+++Error.cshtml
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\shared\error.cshtml
+++Success.cshtml
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\shared\success.cshtml
+++Update
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\update\
+++Updatedept.cshtml
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\update\updatedept.cshtml
+++_ViewStart.cshtml
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\_viewstart.cshtml
+++Web.config
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\web.config
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\web.config
+++favicon.ico
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\favicon.ico
+++Global.asax
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\global.asax
+++packages.config
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\packages.config
+++Antlr3.Runtime
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++Microsoft.Web.Infrastructure
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++Newtonsoft.Json
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.ComponentModel.DataAnnotations
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Drawing
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.EnterpriseServices
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Net.Http.WebRequest
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Web
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Web.Abstractions
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Web.ApplicationServices
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Web.DynamicData
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Web.Entity
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Web.Extensions
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Web.Helpers
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Web.Mvc
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Web.Optimization
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Web.Razor
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Web.Routing
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Web.Services
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Web.WebPages
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Web.WebPages.Deployment
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++System.Web.WebPages.Razor
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++WebGrease
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:
+++BundleConfig.cs
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\app_start\routeconfig.cs
+++bootstrap-theme.css
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\content\bootstrap.css
+++bootstrap.css.map
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\content\bootstrap.css.map
+++bootstrap.min.css
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\content\bootstrap.min.css.map
+++Site.css
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\content\site.css
+++DeleteController.cs
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\controllers\deletecontroller.cs
+++HomeController.cs
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\controllers\homecontroller.cs
+++InsertController.cs
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\controllers\insertcontroller.cs
+++UpdateController.cs
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\controllers\updatecontroller.cs
+++glyphicons-halflings-regular.eot
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\fonts\glyphicons-halflings-regular.woff2
+++bootstrap.js
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\scripts\bootstrap.js
+++bootstrap.min.js
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\scripts\modernizr-2.8.3.js
+++Global.asax.cs
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\global.asax.cs
+++Web.Debug.config
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\web.debug.config
+++Web.Release.config
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\web.release.config
+++Search_DTO.cs
+i:{efa25dff-3cd2-404c-8ee0-9d9327fb903a}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\employeeportal_dto\search_dto.cs
+++Search
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\search\
+++SearchController.cs
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\controllers\searchcontroller.cs
+++SearchModel.js
+++SearchModel.cs
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\models\searchmodel.cs
+++Search.cshtml
+i:{68252fc7-1e57-4cc5-98c4-82ec1d600639}:f:\ltts\mvc mini project\mini-project-employeeportalmvc\miniprojmvc\views\search\search.cshtml
+++SearchController.cshtml

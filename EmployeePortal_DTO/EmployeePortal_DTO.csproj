@@ -43,10 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Login_DTO.cs" />
     <Compile Include="Delete_DTO.cs" />
     <Compile Include="Search_DTO.cs" />
     <Compile Include="Update_DTO.cs" />
-    <Compile Include="Employee_DTO.cs" />
+    <Compile Include="Insert_DTO.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
