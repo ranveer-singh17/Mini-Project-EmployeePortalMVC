@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "68252fc7-1e57-4cc5-98c4-82ec1d600639": {
+      "ProjectGuid": "68252fc7-1e57-4cc5-98c4-82ec1d600639",
+      "DisplayName": "MiniProjMVC",
+      "ColorIndex": 0
+    },
+    "0b7cfa29-5702-43a9-90fa-ed5beb95f5e9": {
+      "ProjectGuid": "0b7cfa29-5702-43a9-90fa-ed5beb95f5e9",
+      "DisplayName": "EmployeePortal_DAL",
+      "ColorIndex": 1
+    },
+    "7952d6f2-f270-4632-9184-dfc913e291c5": {
+      "ProjectGuid": "7952d6f2-f270-4632-9184-dfc913e291c5",
+      "DisplayName": "EmployeePortal_BL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

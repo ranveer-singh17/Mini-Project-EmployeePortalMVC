@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Delete_DTO.cs" />
+    <Compile Include="Search_DTO.cs" />
     <Compile Include="Update_DTO.cs" />
     <Compile Include="Employee_DTO.cs" />
     <Compile Include="Program.cs" />

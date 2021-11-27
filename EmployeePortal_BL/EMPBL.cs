@@ -57,5 +57,21 @@ namespace Employee_Portal_BL
             }
 
         }
+
+        public int SearchEmployee(Search_DTO newObj3)
+        {
+            try
+            {
+                EMPDAL objdal = new EMPDAL();
+                result = objdal.SearchingFromTableEmployee(newObj3);
+                return result;
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+
+        }
     }
 }

@@ -123,12 +123,14 @@
     <Compile Include="Controllers\DeleteController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\InsertController.cs" />
+    <Compile Include="Controllers\SearchController.cs" />
     <Compile Include="Controllers\UpdateController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\DeleteModel.cs" />
     <Compile Include="Models\InsertModel.cs" />
+    <Compile Include="Models\SearchModel.cs" />
     <Compile Include="Models\UpdateModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -172,6 +174,7 @@
     <Content Include="Views\Shared\Success.cshtml" />
     <Content Include="Views\Delete\DeleteDept.cshtml" />
     <Content Include="Views\Update\Updatedept.cshtml" />
+    <Content Include="Views\Search\Search.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

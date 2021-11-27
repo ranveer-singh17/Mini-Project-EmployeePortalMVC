@@ -15,11 +15,13 @@ namespace EmployeePortal_DAL
     {
         SqlConnection sqlConObj;
         SqlCommand sqlCmdObj;
+        Employee_PortalEntities CntxtObj;
         //SqlDataReader sqlDataReaderObj;
         public EMPDAL()
         {
             sqlConObj = new SqlConnection();
             sqlCmdObj = new SqlCommand();
+            CntxtObj = new Employee_PortalEntities();
 
         }
         public int InsertNewDataIntoEmployee(Insert_DTO newObj)
@@ -129,11 +131,23 @@ namespace EmployeePortal_DAL
                 throw ex;
             }
 
+            
+
+
 
 
 
         }
+
+        public void SearchingFromEmployee(Search_DTO newObj3)
+        {
+
         }
+         
+
+
+
+    }
 
        
     }
