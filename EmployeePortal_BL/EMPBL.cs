@@ -65,22 +65,7 @@ namespace Employee_Portal_BL
         }
 
 
-        public List<Search_DTO> SearchEmployee()
-        {
-            try
-            {
-
-               List<Search_DTO> result = objdal.SearchingFromTableEmployee();
-                return result;
-            }
-            catch (Exception ex)
-            {
-
-                throw ex;
-            }
-
-        }
-
+        
         
 
 

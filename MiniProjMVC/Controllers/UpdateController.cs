@@ -18,13 +18,13 @@ namespace MiniProjMVC.Controllers
             Objbl = new EMPBL();
         }
         // GET: Insert
-        public ActionResult Updatedept()
+        public ActionResult Update()
         {
             return View();
         }
 
         [HttpPost]
-        public ActionResult UpdateDept(UpdateModel newDept)
+        public ActionResult Update(UpdateModel newDept)
         {
             try
             {

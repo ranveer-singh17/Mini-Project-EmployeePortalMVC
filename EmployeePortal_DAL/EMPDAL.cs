@@ -136,24 +136,7 @@ namespace EmployeePortal_DAL
 
         }
 
-       public List<Search_DTO> SearchingFromTableEmployee()
-        {
-            List<employee> listfromDB = CntxtObj.employees.ToList();
-            List<Search_DTO> searchlst = new List<Search_DTO>();   
-            foreach (employee emp in listfromDB)
-            {
-                searchlst.Add(new Search_DTO()
-                {
-                    EmployeeId = emp.EmployeeId,
-                    FirstName = emp.FirstName,
-                    LastName = emp.LastName,
-                    salary = (int)emp.salary,
-                    DepartmentID = (int)emp.DepartmentID
-
-                }) ;
-            }
-            return searchlst;
-        }
+      
 
       
 

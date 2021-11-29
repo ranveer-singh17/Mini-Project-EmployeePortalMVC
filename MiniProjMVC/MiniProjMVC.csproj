@@ -215,10 +215,10 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Insert\Insertdept.cshtml" />
+    <Content Include="Views\Insert\InsertView.cshtml" />
     <Content Include="Views\Shared\Success.cshtml" />
-    <Content Include="Views\Delete\DeleteDept.cshtml" />
-    <Content Include="Views\Update\Updatedept.cshtml" />
+    <Content Include="Views\Delete\DeleteView.cshtml" />
+    <Content Include="Views\Update\UpdateView.cshtml" />
     <Content Include="Views\Login\Login.cshtml" />
     <Content Include="Views\Shared\ModifiedLayout.cshtml" />
     <Content Include="Views\Traverse\Search.cshtml" />
